@@ -1,6 +1,6 @@
 # 🧠 Sentiment Analysis App with Streamlit
 
-![Banner](assets/sentiment-analysis-banner.png)
+![Banner](assets/banner.png)
 
 Aplikasi web interaktif untuk analisis sentimen teks menggunakan Python dan Streamlit. Proyek ini membandingkan performa tiga algoritma machine learning: **Support Vector Machine (SVM)**, **Naive Bayes**, dan **Voting Classifier**.
 
